@@ -3,11 +3,11 @@
 
 
 ## Prerequisites:-
-Azure account and subscription
-Azure CLI installed
-Terraform installed
-Python 3.x installed
-An editor or IDE for Python, such as Visual Studio Code
+> Azure account and subscription
+> Azure CLI installed
+> Terraform installed
+> Python 3.x installed
+> An editor or IDE for Python, such as Visual Studio Code
 
 ## Steps:-
 
